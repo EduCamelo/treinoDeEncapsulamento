@@ -1,0 +1,1 @@
+Eu estou estudando pelo curso em vídeo e estou testando meus aprendizado sobre encapsulamento utilizando como exemplo um personagem.
